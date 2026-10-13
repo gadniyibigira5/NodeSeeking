@@ -11,9 +11,12 @@
   },
   "license": "ISC",
   "author": "GAD",
-  "type": "commonjs",
+  "type": "module",
   "main": "firstNode.js",
   "scripts": {
     "test": "hello"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
