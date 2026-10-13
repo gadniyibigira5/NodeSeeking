@@ -1,0 +1,19 @@
+{
+  "name": "mynode-proj",
+  "version": "1.0.0",
+  "description": "this is from code crash",
+  "keywords": [
+    "only"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "gadniyibigira5"
+  },
+  "license": "ISC",
+  "author": "GAD",
+  "type": "commonjs",
+  "main": "firstNode.js",
+  "scripts": {
+    "test": "hello"
+  }
+}
